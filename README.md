@@ -7,4 +7,4 @@ Gym Facilities: Information on available equipment and services.
 
 Contact Information: A section for users to inquire or get in touch with the gym.
 
-Responsive Design: Ensures a smooth experience on both desktop and mobile devices.
+Responsive Design: Ensures a smooth experience on both desktop and mobile devices. 
